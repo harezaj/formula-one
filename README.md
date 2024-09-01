@@ -4,7 +4,11 @@
 ![image](https://github.com/user-attachments/assets/041111c7-6989-4f83-8857-805dbfbdb666)
 
 ## Tools & Services
-![image](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) <img width="105" alt="Screenshot 2024-08-31 at 10 03 14 PM" src="https://github.com/user-attachments/assets/84f628b5-2190-4046-a921-cc607df4f954"> ![image](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white) ![image](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white) ![image](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+[![image](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/?hl=en) [<img width="105" alt="Screenshot 2024-08-31 at 10 03 14 PM" src="https://github.com/user-attachments/assets/84f628b5-2190-4046-a921-cc607df4f954">](https://dagster.io/)  [![image](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)](https://streamlit.io/) [![image](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)](https://www.terraform.io/) [![image](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)](https://www.getdbt.com/)
+
+
+
+
 <!--
 140 150
 105 28
